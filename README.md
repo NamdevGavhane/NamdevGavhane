@@ -1,6 +1,6 @@
 # 💫 About Me:
-currently purshuing BE <br>i master in java <br>i am study in SIT Lonavala<br><br>
-
+IT student | MERN Stack Developer | Java & DSA | DevOps Enthusiast
+Building scalable web apps, AI-powered projects, and exploring cloud & automation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/namdevgavhane) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@NamuFaith) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:namdevgavahne41@gmail.com) 
